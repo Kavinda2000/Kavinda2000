@@ -19,12 +19,12 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year **Electrical & Information Engineering** graduate (Network Systems & Telecommunications) at the **University of Ruhuna** — all coursework completed, available full-time immediately.
-- 🛰️ Hands-on training at **SLT-MOBITEL** in FTTx / copper deployment, MSAN fault diagnosis, and daily network operations.
-- 🔐 Designed **ZT-XGuard**, a Zero-Trust security framework for 5G Open RAN with hardware-level integrity checks and real-time anomaly detection.
-- 🤖 Automate multi-vendor network configuration with **Python (Netmiko)** and **Ansible**.
-- 📜 Google Cybersecurity–certified, Aviatrix Multicloud Network Associate, and Lean Six Sigma Yellow Belt.
-- ⚡ Fast learner — I pick up new stacks, tools, and infrastructure quickly and enjoy solving hard problems.
+- Final-year **Electrical & Information Engineering** graduate (Network Systems & Telecommunications) at the **University of Ruhuna** — all coursework completed, available full-time immediately.
+- Hands-on training at **SLT-MOBITEL** in FTTx / copper deployment, MSAN fault diagnosis, and daily network operations.
+- Designed **ZT-XGuard**, a Zero-Trust security framework for 5G Open RAN with hardware-level integrity checks and real-time anomaly detection.
+- Automate multi-vendor network configuration with **Python (Netmiko)** and **Ansible**.
+- Google Cybersecurity–certified, Aviatrix Multicloud Network Associate, and Lean Six Sigma Yellow Belt.
+- Fast learner — I pick up new stacks, tools, and infrastructure quickly and enjoy solving hard problems.
 
 <br/>
 
@@ -34,7 +34,8 @@
 Specialized in Network Systems and Telecommunications · OGPA 3.3/4.0 (coursework completed)
 
 **Dharmaraja College, Kandy** `2018 – 2020`
-GCE A/L — AAB · GCE O/L — 9 A's
+  GCE A/L — AAB 
+  GCE O/L — 9 A's
 
 <br/>
 
@@ -155,14 +156,14 @@ These are the highlights — the full source, docs, and demos live in my pinned 
 <summary><b>Click to expand — 8 certifications</b></summary>
 <br/>
 
-- 🛡️ Foundations of Cybersecurity — Google
-- 🛡️ Connect and Protect: Networks and Network Security — Google
-- 🛡️ Play It Safe: Manage Security Risks — Google
-- 🛡️ Tools of the Trade: Linux and SQL — Google
-- 🛡️ The Cybersecurity Threat Landscape — LinkedIn Learning
-- ☁️ Multicloud Network Associate — Aviatrix
-- 🤖 AI Essentials Specialization — Google
-- 📊 Lean Six Sigma Yellow Belt (ISO 18404 Compliant)
+- Foundations of Cybersecurity — Google
+- Connect and Protect: Networks and Network Security — Google
+- Play It Safe: Manage Security Risks — Google
+- Tools of the Trade: Linux and SQL — Google
+- The Cybersecurity Threat Landscape — LinkedIn Learning
+- Multicloud Network Associate — Aviatrix
+- AI Essentials Specialization — Google
+- Lean Six Sigma Yellow Belt (ISO 18404 Compliant)
 
 </details>
 
@@ -170,9 +171,9 @@ These are the highlights — the full source, docs, and demos live in my pinned 
 
 ## 🎯 Currently
 
-- 🟢 **Available for full-time roles immediately**
-- 🎯 Looking for: Network Engineering · Telecom · Network Security · NetOps / DevNet roles
-- 💬 Ask me about: Open RAN, Zero-Trust security, network automation, or GNS3 lab design
+- **Available for full-time roles immediately**
+- Looking for: Network Engineering · Telecom · Network Security · NetOps / DevNet roles
+- Ask me about: Open RAN, Zero-Trust security, network automation, or GNS3 lab design
 
 <br/>
 
