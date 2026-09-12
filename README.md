@@ -9,7 +9,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/-dkavinda888%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkavinda888@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-WITH-YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinda-dilshan-57a610241/)
 [![GitHub](https://img.shields.io/badge/-Kavinda2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavinda2000)
 ![Location](https://img.shields.io/badge/-Sri%20Lanka-2c5364?style=for-the-badge)
 
@@ -63,7 +63,7 @@ Zero‑Trust security framework for 5G Open RAN with hardware-level integrity ch
 
 `Zero Trust` `Open RAN` `Kubernetes` `Security`
 
-**[🔗 View Repository →](https://github.com/Kavinda2000/ZT-XGuard)**
+**[🔗 View Repository →](https://github.com/Deshan-Lokuge01/Threat-Containment-Strategies-for-Compromised-xApps-in-Open-RAN)**
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ Three-layer hierarchical campus network built in GNS3 with OSPF, inter-VLAN rout
 
 `GNS3` `OSPF` `Netmiko` `Ansible`
 
-**[🔗 View Repository →](https://github.com/Kavinda2000/Campus-Network-Design)**
+**[🔗 View Repository →](https://github.com/Mihira02/EE8203_FoE_UoR_Network_Automation)**
 
 </td>
 </tr>
