@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=220&section=header&text=M.D.K.%20Dilshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Network%20%26%20Telecom%20Engineer%20%7C%20Open%20RAN%20Security%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <a href="https://github.com/Kavinda2000">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&width=780&lines=Electrical+%26+Information+Engineering+Graduate;Network+%26+Telecommunications+Specialist;5G+Open+RAN+%7C+Zero-Trust+Security+Researcher;Automating+Networks+with+Python+%26+Ansible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&width=920&lines=Electrical+%26+Information+Engineering+Graduate;Network+%26+Telecommunications+Specialist;5G+Open+RAN+%7C+Zero-Trust+Security+Researcher;Automating+Networks+with+Python+%26+Ansible" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Gmail](https://img.shields.io/badge/-dkavinda888%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkavinda888@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinda-dilshan-57a610241/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-WITH-YOUR-HANDLE)
 [![GitHub](https://img.shields.io/badge/-Kavinda2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavinda2000)
 ![Location](https://img.shields.io/badge/-Sri%20Lanka-2c5364?style=for-the-badge)
 
@@ -63,7 +63,7 @@ Zero‑Trust security framework for 5G Open RAN with hardware-level integrity ch
 
 `Zero Trust` `Open RAN` `Kubernetes` `Security`
 
-**[🔗 View Repository →](https://github.com/Deshan-Lokuge01/Threat-Containment-Strategies-for-Compromised-xApps-in-Open-RAN)**
+**[🔗 View Repository →](https://github.com/Kavinda2000/ZT-XGuard)**
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ Three-layer hierarchical campus network built in GNS3 with OSPF, inter-VLAN rout
 
 `GNS3` `OSPF` `Netmiko` `Ansible`
 
-**[🔗 View Repository →](https://github.com/Mihira02/EE8203_FoE_UoR_Network_Automation)**
+**[🔗 View Repository →](https://github.com/Kavinda2000/Campus-Network-Design)**
 
 </td>
 </tr>
@@ -105,45 +105,50 @@ These are the highlights — the full source, docs, and demos live in my pinned 
 
 **Networking, Security & Simulation**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-00B2A9?style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNS3-00B2A9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+</p>
 
 **Programming & Web**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,react,nodejs,express,mongodb" />
+<p>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,react,nodejs,express,mongodb"/>
+</p>
 
 **Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,bash" />
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,bash"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 <br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavinda2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinda2000&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kavinda2000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<img src="github-metrics.svg" width="100%" alt="GitHub metrics"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavinda2000&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Kavinda2000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 <br/>
 
 ## 🐍 Live Contribution Graph
 
-<!-- Requires a one-time GitHub Action setup — see the message below the file for the 2-minute setup steps -->
 <img src="https://raw.githubusercontent.com/Kavinda2000/Kavinda2000/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 <br/>
@@ -173,10 +178,12 @@ These are the highlights — the full source, docs, and demos live in my pinned 
 - 🎯 Looking for: Network Engineering · Telecom · Network Security · NetOps / DevNet roles
 - 💬 Ask me about: Open RAN, Zero-Trust security, network automation, or GNS3 lab design
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:71B280,100:134E5E&height=120&section=footer" width="100%"/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Kavinda2000&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+
+Thanks for stopping by — feel free to connect! ⭐
 
 </div>
