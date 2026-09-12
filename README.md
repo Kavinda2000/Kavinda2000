@@ -9,8 +9,8 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/-dkavinda888%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkavinda888@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/kavinda-dilshan-57a610241/)
-[![GitHub](https://github.com/Kavinda2000)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinda-dilshan-57a610241/)
+[![GitHub](https://img.shields.io/badge/-Kavinda2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavinda2000)
 ![Location](https://img.shields.io/badge/-Sri%20Lanka-2c5364?style=for-the-badge)
 
 </div>
