@@ -85,7 +85,7 @@ Full-stack web app built for an external client featuring real-time booking and 
 
 `MongoDB` `Express` `React` `Node.js`
 
-**[🔗 View Repository →](https://github.com/Kavinda2000)**
+**[🔗 View Repository →](https://github.com/Kavinda2000/Software-Project)**
 
 </td>
 <td width="50%" valign="top">
