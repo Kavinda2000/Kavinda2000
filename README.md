@@ -1,15 +1,18 @@
+<!-- Animated Header Graphic -->
 <div align="center">
-  <!-- Dynamic Typing Animation Header -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZ2pzeHZ2eGpzZ3R3NnlwZzE4N2Z5bWgxbGZ3a3g1YXU1cWFzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iDadew0X6K0Y1/giphy.gif" width="250" alt="Network Animation" />
+</div>
+
+<!-- Enlarged Typing Animation -->
+<div align="center">
   <a href="https://github.com/Kavinda2000">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Kavinda+Dilshan+👋;Electrical+%26+Information+Engineering+Undergrad;Network+Automation+%26+Security+Researcher;Python+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=850&height=100&lines=Hi+there,+I'm+Kavinda+Dilshan+👋;Electrical+%26+Information+Engineering;Network+Automation+%26+Security+Researcher" alt="Typing Animation" />
   </a>
 </div>
 
-<br/>
-
+<!-- Animated Divider -->
 <div align="center">
-  <!-- Professional Networking/Tech Animation -->
-  <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-hacker-isometric-illustration.gif" alt="Tech Animation" style="border-radius: 10px;" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </div>
 
 ### 👨‍💻 About Me
@@ -42,14 +45,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Animated GitHub Stats Cards with Dark Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinda2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinda2000&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Visitor Count</i><br>
-  <img src="https://profile-counter.glitch.me/Kavinda2000/count.svg" alt="Visitor Count" />
+  <a href="https://github.com/Kavinda2000">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kavinda2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Kavinda2000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinda2000&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
 </div>
