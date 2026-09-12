@@ -74,8 +74,8 @@
 
 <div align="center">
   <a href="https://github.com/Kavinda2000">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kavinda2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavinda2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1" height="170" alt="GitHub Stats" />
+</a>
   <a href="https://github.com/Kavinda2000">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinda2000&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
   </a>
