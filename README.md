@@ -17,29 +17,29 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Electrical and Information Engineering Graduate** specializing in Network Systems and Telecommunications from the University of Ruhuna[cite: 1].
-* ⚙️ Experienced in daily network operations, fiber infrastructure, and fault monitoring through hands-on training at SLT-MOBITEL[cite: 1].
-* 🛡️ Designed a 5G Open RAN Zero-Trust security system featuring hardware-level integrity checks and real-time anomaly detection[cite: 1].
-* 📡 Skilled in automating multi-vendor device configurations using Python (Netmiko) and Ansible[cite: 1].
-* 📫 Reach out to me: **[dkavinda888@gmail.com](mailto:dkavinda888@gmail.com)**[cite: 1]
+* 🎓 **Electrical and Information Engineering Graduate** specializing in Network Systems and Telecommunications from the University of Ruhuna.
+* ⚙️ Experienced in daily network operations, fiber infrastructure, and fault monitoring through hands-on training at SLT-MOBITEL.
+* 🛡️ Designed a 5G Open RAN Zero-Trust security system featuring hardware-level integrity checks and real-time anomaly detection.
+* 📡 Skilled in automating multi-vendor device configurations using Python (Netmiko) and Ansible.
+* 📫 Reach out to me: **[dkavinda888@gmail.com](mailto:dkavinda888@gmail.com)**
 
 <br/>
 
 ### 💼 Experience
 
-* **Engineering Intern (Telecommunication)** | *SLT-MOBITEL*[cite: 1]
-  * Executed FTTx and copper network deployments and diagnosed MSAN failures[cite: 1].
-  * Automated KPI monitoring via Excel macros to assess fault priorities[cite: 1].
-* **Engineering Intern (Electrical)** | *CEYPETCO Sapugaskanda Oil Refinery*[cite: 1]
-  * Engaged in electrical maintenance and industrial automation checks during a heavy industrial shutdown[cite: 1].
+* **Engineering Intern (Telecommunication)** | *SLT-MOBITEL*
+  * Executed FTTx and copper network deployments and diagnosed MSAN failures.
+  * Automated KPI monitoring via Excel macros to assess fault priorities.
+* **Engineering Intern (Electrical)** | *CEYPETCO Sapugaskanda Oil Refinery*
+  * Engaged in electrical maintenance and industrial automation checks during a heavy industrial shutdown.
 
 <br/>
 
 ### 🚀 Featured Projects
 
-* 🔐 **ZT-XGuard:** Built an automated quarantine workflow via Kubernetes network policies, validating the Open RAN framework against live traffic with zero false alarms[cite: 1].
-* 🌐 **Campus Network Design & Management:** Designed a hierarchical campus network in GNS3, implementing OSPF, inter-VLAN routing, and security policies via extended ACLs[cite: 1].
-* 💻 **Software Engineering Project:** Engineered a full-stack MERN (MongoDB, Express.js, React, Node.js) web application featuring real-time booking systems and secure payment integrations[cite: 1].
+* 🔐 **ZT-XGuard:** Built an automated quarantine workflow via Kubernetes network policies, validating the Open RAN framework against live traffic with zero false alarms.
+* 🌐 **Campus Network Design & Management:** Designed a hierarchical campus network in GNS3, implementing OSPF, inter-VLAN routing, and security policies via extended ACLs.
+* 💻 **Software Engineering Project:** Engineered a full-stack MERN (MongoDB, Express.js, React, Node.js) web application featuring real-time booking systems and secure payment integrations.
 
 <br/>
 
@@ -63,10 +63,10 @@
 
 ### 📜 Certifications
 
-* 🛡️ **Google Cybersecurity Specializations** (Connect and Protect, Foundations, Play It Safe, Tools of the Trade)[cite: 1]
-* ☁️ **Multicloud Network Associate** - Aviatrix[cite: 1]
-* 🤖 **AI Essentials Specialization** - Google[cite: 1]
-* 📊 **Lean Six Sigma Yellow Belt** (ISO 18404 Compliant)[cite: 1]
+* 🛡️ **Google Cybersecurity Specializations** (Connect and Protect, Foundations, Play It Safe, Tools of the Trade)
+* ☁️ **Multicloud Network Associate** - Aviatrix
+* 🤖 **AI Essentials Specialization** - Google
+* 📊 **Lean Six Sigma Yellow Belt** (ISO 18404 Compliant)
 
 <br/>
 
@@ -74,8 +74,8 @@
 
 <div align="center">
   <a href="https://github.com/Kavinda2000">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavinda2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1" height="170" alt="GitHub Stats" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kavinda2000&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
+  </a>
   <a href="https://github.com/Kavinda2000">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinda2000&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
   </a>
