@@ -6,7 +6,7 @@
 <!-- Enlarged Typing Animation -->
 <div align="center">
   <a href="https://github.com/Kavinda2000">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=850&height=100&lines=Hi+there,+I'm+Kavinda+Dilshan+👋;Electrical+%26+Information+Engineering;Network+Automation+%26+Security+Researcher" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=850&height=100&lines=Electrical+%26+Info+Engineering+Grad;Network+%26+Telecommunications+Specialist;Open+RAN+%26+Security+Researcher" alt="Typing Animation" />
   </a>
 </div>
 
@@ -17,28 +17,56 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Undergraduate Student** in Electrical & Information Engineering, based in Sri Lanka.
-* 🔐 Passionate about **Network Engineering**, **Cybersecurity**, and **Open RAN** architectures.
-* ⚙️ Actively developing **Python automation scripts** (Netmiko, Paramiko) for enterprise campus network design.
-* 📡 Currently exploring **xApp security monitoring**, threat containment, and emulated network topologies via GNS3 & Cisco CML.
-* 📜 Actively preparing for industry standard certifications: **Google Cybersecurity** & **CCNA**.
-* 📫 Reach out to me: **[dkavinda888@gmail.com](mailto:dkavinda888@gmail.com)**
+* 🎓 **Electrical and Information Engineering Graduate** specializing in Network Systems and Telecommunications from the University of Ruhuna[cite: 1].
+* ⚙️ Experienced in daily network operations, fiber infrastructure, and fault monitoring through hands-on training at SLT-MOBITEL[cite: 1].
+* 🛡️ Designed a 5G Open RAN Zero-Trust security system featuring hardware-level integrity checks and real-time anomaly detection[cite: 1].
+* 📡 Skilled in automating multi-vendor device configurations using Python (Netmiko) and Ansible[cite: 1].
+* 📫 Reach out to me: **[dkavinda888@gmail.com](mailto:dkavinda888@gmail.com)**[cite: 1]
+
+<br/>
+
+### 💼 Experience
+
+* **Engineering Intern (Telecommunication)** | *SLT-MOBITEL*[cite: 1]
+  * Executed FTTx and copper network deployments and diagnosed MSAN failures[cite: 1].
+  * Automated KPI monitoring via Excel macros to assess fault priorities[cite: 1].
+* **Engineering Intern (Electrical)** | *CEYPETCO Sapugaskanda Oil Refinery*[cite: 1]
+  * Engaged in electrical maintenance and industrial automation checks during a heavy industrial shutdown[cite: 1].
+
+<br/>
+
+### 🚀 Featured Projects
+
+* 🔐 **ZT-XGuard:** Built an automated quarantine workflow via Kubernetes network policies, validating the Open RAN framework against live traffic with zero false alarms[cite: 1].
+* 🌐 **Campus Network Design & Management:** Designed a hierarchical campus network in GNS3, implementing OSPF, inter-VLAN routing, and security policies via extended ACLs[cite: 1].
+* 💻 **Software Engineering Project:** Engineered a full-stack MERN (MongoDB, Express.js, React, Node.js) web application featuring real-time booking systems and secure payment integrations[cite: 1].
 
 <br/>
 
 ### 🛠️ Technical Arsenal
 
-**Networking & Security** <br>
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+**Networking, Tools & Security** <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-00B2A9?style=for-the-badge&logo=gns3&logoColor=white)
 
-**Programming & Automation** <br>
+**Programming & Web Tech** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
+
+### 📜 Certifications
+
+* 🛡️ **Google Cybersecurity Specializations** (Connect and Protect, Foundations, Play It Safe, Tools of the Trade)[cite: 1]
+* ☁️ **Multicloud Network Associate** - Aviatrix[cite: 1]
+* 🤖 **AI Essentials Specialization** - Google[cite: 1]
+* 📊 **Lean Six Sigma Yellow Belt** (ISO 18404 Compliant)[cite: 1]
 
 <br/>
 
