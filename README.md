@@ -41,12 +41,12 @@ Specialized in Network Systems and Telecommunications · OGPA 3.3/4.0 (coursewor
 
 ## 💼 Experience
 
-**🛰️ Engineering Intern — Telecommunication Engineering**
+** Engineering Intern — Telecommunication Engineering**
 *Sri Lanka Telecom PLC (SLT‑MOBITEL), OPMC Peradeniya* · Aug 2025 – Oct 2025
 - Executed FTTx and copper network deployments; performed fiber splicing and diagnosed MSAN failures and physical-layer attenuation.
 - Automated KPI monitoring with Excel macros to flag violations and prioritize fault response.
 
-**⚡ Engineering Intern — Electrical Engineering**
+** Engineering Intern — Electrical Engineering**
 *CEYPETCO, Sapugaskanda Oil Refinery* · Aug 2024 – Sept 2024
 - Supported electrical maintenance and industrial automation checks during a full plant shutdown.
 - Assisted with safety procedures, system diagnostics, and electrical testing protocols.
